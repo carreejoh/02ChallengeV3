@@ -19,8 +19,8 @@
 	#github repo: https://github.com/carreejoh/02ChallengeV3
 
 ## Screenshot
-    Screenshot (6).png
-
+    ![Alt text](screenshot%20moriseon.png)
+	
 ## For The Teachers
 	My lack of commits is due to me creating a new repo, which finally fixed the issue of the website not deploying correctly.
 	All deployments ended up with either the photo links or css link not working at all, and moving everything over to a new repo seemed to work.
